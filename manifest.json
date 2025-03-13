@@ -1,0 +1,10 @@
+{
+    "name": "MoreShopItems",
+    "version_number": "1.2.0",
+    "website_url": "",
+    "description": "The store now carries more items on the shelves!",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "Zehs-REPOLib-1.3.1"
+    ]
+}
