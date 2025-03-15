@@ -1,10 +1,19 @@
 ## Releases
 
 <details>
+    <summary><b>1.2.2</b></summary>
+    <ul>
+        <li>
+	    <p>Fixed the networking code causing the shelf to spawn in the truck. (Hopefully for good!)</p>
+	</li>
+    </ul>
+</details>
+
+<details>
     <summary><b>1.2.1</b></summary>
     <ul>
         <li>
-	    <p> Added additional level verification to prevent the truck from being partially blocked. (This however might prevent the shelf from spawning, but only in very rare edge cases)
+	    <p>Added additional level verification to prevent the truck from being partially blocked. (This however might prevent the shelf from spawning, but only in very rare edge cases)
 	    </p>
 	</li>
     </ul>
