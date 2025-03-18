@@ -1,6 +1,28 @@
 ## Releases
 
 <details>
+    <summary><b>1.2.3</b></summary>
+    <p>Fixes</p>
+    <ul>
+	<li>
+	    <p>Reverted the shelving prefab to 1.2.1 (removed some lights) to fix potential performance hinderances.</p>
+	</li>
+	<li>
+	    <p>Additional checks to prevent the shelf from spawning multiple times, which affected performance.</p>
+	</li>
+	<li>
+	    <p>Fixed weapons spawning when the limit was reached. (caused weapons and items you bought to disappear)</p>
+	</li>
+    </ul>
+    <p>Additions</p>
+    <ul>
+        <li>
+	    <p>Added a two config entries that you can customize.</p>
+	</li>
+    </ul>
+</details>
+
+<details>
     <summary><b>1.2.2</b></summary>
     <ul>
         <li>
