@@ -1,6 +1,15 @@
 ## Releases
 
 <details>
+    <summary><b>1.2.4</b></summary>
+    <ul>
+        <li>
+	    <p>Added another config slider to allow more control over the mod.</p>
+	</li>
+    </ul>
+</details>
+
+<details>
     <summary><b>1.2.3</b></summary>
     <p>Fixes</p>
     <ul>
