@@ -1,6 +1,18 @@
 ## Releases
 
 <details>
+    <summary><b>1.2.5</b></summary>
+    <ul>
+	<li>
+	    <p>Compatibility with some modded upgrades has been added. (As of now, only upgrades added through MoreUpgrades will be detected)</p>
+	</li>
+        <li>
+	    <p>Added a toggle in the config to override modded values. (leave false if you want to use the mods config)</p>
+	</li>
+    </ul>
+</details>
+
+<details>
     <summary><b>1.2.4</b></summary>
     <ul>
         <li>
