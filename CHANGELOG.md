@@ -1,6 +1,21 @@
 ## Releases
 
 <details>
+    <summary><b>1.2.6</b></summary>
+    <ul>
+	<li>
+	    <p>Organized code for better readability, and clarity.</p>
+	</li>
+        <li>
+	    <p>Rewrote the config to be more concise.</p>
+	</li>
+	<li>
+	    <p>Altered the item spawning code to hopefully allow more single use items to spawn. (Map Player Count, and modded upgrades such as Valuable Count, Map Enemy Count, etc)</p>
+	</li>
+    </ul>
+</details>
+
+<details>
     <summary><b>1.2.5</b></summary>
     <ul>
 	<li>
